@@ -5,6 +5,6 @@
 source "https://rubygems.org/"
 
 
-gem "rdoc", "~>4.0", :group => [:development, :test]
+gem "rdoc", "~>6.1.2.1", :group => [:development, :test]
 gem "hoe", "~>3.7", :group => [:development, :test]
 
